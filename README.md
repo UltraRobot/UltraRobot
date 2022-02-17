@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Ultra Robot (@ekelly22)
+- 👋 Hi, I’m @ekelly22
 - 👀 I’m interested in game design
 - 🌱 I’m currently learning 3D modelling, level design, and scripting
 - 💞️ I’m looking to collaborate on Unity projects via intergation with GitHub
